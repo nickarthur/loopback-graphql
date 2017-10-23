@@ -76,7 +76,7 @@
         "jest": "^21.0.0",
         "jest-cli": "^21.1.0",
         "loopback": "^3.8.0",
-        "loopback-boot": "^2.24.1",
+        "loopback-boot": "^2.27.0",
         "loopback-component-explorer": "^5.0.0",
         "loopback-datasource-juggler": "^3.9.1",
         "node-dev": "^3.1.3",
